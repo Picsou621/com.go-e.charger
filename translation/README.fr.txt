@@ -1,3 +1,3 @@
-Support for all go-e Home and Gemini family of EV chargers.
+Prise en charge de toutes les bornes de recharge de la famille go-e Charger HOME et Gemini.
 
-Please note, that APIv2 devices (3rd and 4th generation) must have firmware 051.4 or above installed.
+Veuillez noter que les appareils avec APIv2 (3e et 4e génération) doivent être munis du firmware 051.4 ou plus récent.
