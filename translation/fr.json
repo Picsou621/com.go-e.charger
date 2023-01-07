@@ -1,16 +1,16 @@
 {
   "pair": {
-    "title": "Manual configuration",
+    "title": "Configuration manuelle",
     "subtitle": "Configuration",
-    "intro": "Enter the IP address for your go-eCharger device.",
-    "nosettings": "Please fill in all the required fields.",
-    "address": "IP Address",
-    "name": "Device Name:",
-    "serial": "Device Serial:",
-    "driver": "Device Driver:",
-    "test": "Test Connection",
-    "testing": "Connection test succesfull, you can now connect the device.",
-    "connect": "Connect",
-    "success": "go-eCharger added succesfully."
+    "intro": "Entrez l'adresse IP de votre appareil go-e Charger.",
+    "nosettings": "Veuillez remplir tous les champs requis.",
+    "address": "Adresse IP",
+    "name": "Nom de l'appareil:",
+    "serial": "Numéro de série de l'appareil:",
+    "driver": "Driver de l'appareil:",
+    "test": "Test de connexion",
+    "testing": "Test de connexion réussi, vous pouvez maintenant connecter l'appareil.",
+    "connect": "Connexion",
+    "success": "Le go-e Charger a été ajouté avec succès."
   }
 }
