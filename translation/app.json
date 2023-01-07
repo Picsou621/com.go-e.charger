@@ -13,7 +13,7 @@
     "en": "Simply Charge Smart",
     "nl": "Laad gewoon slim op",
     "de": "Einfach Smart Laden",
-    "fr": "Rechargez simplement et intelligemment"
+    "fr": "Simplement recharger intelligemment"
   },
   "tags": {
     "en": [
@@ -36,7 +36,7 @@
       "auto"
     ],
     "fr": [
-      "ev",
+      "VE",
       "véhicule électrique",
       "charger",
       "voiture"
