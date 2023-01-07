@@ -4,7 +4,7 @@
       "en": "Home, 1st gen (CC1)",
       "nl": "Home, 1e gen (CC1)",
       "de": "Home, 1. Gen (CC1)",
-      "fr": "Home, 1ère gen (CC1)"
+      "fr": "Home, 1re gén. (CC1)"
     },
     "capabilitiesOptions": {
       "meter_power.session": {
@@ -19,7 +19,7 @@
           "en": "Energy (kWh) delivered during last session. Reset automatically when a car is connected.",
           "nl": "Energie (kWh) geleverd tijdens laatste sessie. Reset automatisch wanneer een auto is aangesloten.",
           "de": "Energie (kWh) während der letzten Sitzung geliefert. Wird automatisch zurückgesetzt, wenn ein Auto angeschlossen ist.",
-          "fr": "Énergie (kWh) livrée pendant la dernière session. Réinitialisé automatiquement lorsqu'une voiture est connectée."
+          "fr": "Énergie (kWh) délivrée pendant la dernière session. Remise à zéro automatiquement lorsqu'une voiture est connectée."
         },
         "getable": true,
         "setable": false,
@@ -36,7 +36,7 @@
       "en": "Home, 2nd gen (CM-02)",
       "nl": "Home, 2e gen (CM-02)",
       "de": "Home, 2. Gen (CM-02)",
-      "fr": "Home, 2e gen (CM-02)"
+      "fr": "Home, 2e gén. (CM-02)"
     },
     "capabilitiesOptions": {
       "meter_power.session": {
@@ -51,7 +51,7 @@
           "en": "Energy (kWh) delivered during last session. Reset automatically when a car is connected.",
           "nl": "Energie (kWh) geleverd tijdens laatste sessie. Reset automatisch wanneer een auto is aangesloten.",
           "de": "Energie (kWh) während der letzten Sitzung geliefert. Wird automatisch zurückgesetzt, wenn ein Auto angeschlossen ist.",
-          "fr": "Énergie (kWh) livrée pendant la dernière session. Réinitialisé automatiquement lorsqu'une voiture est connectée."
+          "fr": "Energie (kWh) délivrée pendant la dernière session. Remise à zéro automatiquement lorsqu'une voiture est connectée."
         },
         "getable": true,
         "setable": false,
@@ -68,7 +68,7 @@
       "en": "Home, 3rd gen (CM-03)",
       "nl": "Home, 3e gen (CM-03)",
       "de": "Home, 3. Gen (CM-03)",
-      "fr": "Home, 3e gen (CM-03)"
+      "fr": "Home, 3e gén. (CM-03)"
     },
     "capabilitiesOptions": {
       "measure_temperature.charge_port": {
@@ -106,7 +106,7 @@
           "en": "Energy (kWh) delivered during last session. Reset automatically when a car is connected.",
           "nl": "Energie (kWh) geleverd tijdens laatste sessie. Reset automatisch wanneer een auto is aangesloten.",
           "de": "Energie (kWh) während der letzten Sitzung geliefert. Wird automatisch zurückgesetzt, wenn ein Auto angeschlossen ist.",
-          "fr": "Énergie (kWh) livrée pendant la dernière session. Réinitialisé automatiquement lorsqu'une voiture est connectée."
+          "fr": "Energie (kWh) délivrée pendant la dernière session. Remise à zéro automatiquement lorsqu'une voiture est connectée."
         },
         "getable": true,
         "setable": false,
@@ -159,7 +159,7 @@
           "en": "Energy (kWh) delivered during last session. Reset automatically when a car is connected.",
           "nl": "Energie (kWh) geleverd tijdens laatste sessie. Reset automatisch wanneer een auto is aangesloten.",
           "de": "Energie (kWh) während der letzten Sitzung geliefert. Wird automatisch zurückgesetzt, wenn ein Auto angeschlossen ist.",
-          "fr": "Énergie (kWh) livrée pendant la dernière session. Réinitialisé automatiquement lorsqu'une voiture est connectée."
+          "fr": "Energie (kWh) délivrée pendant la dernière session. Remise à zéro automatiquement lorsqu'une voiture est connectée."
         },
         "getable": true,
         "setable": false,
